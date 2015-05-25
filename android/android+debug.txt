@@ -1,0 +1,8 @@
+debug
+	http://stackoverflow.com/questions/9140423/android-ndk-assert-h-problems
+    use NDK_DEBUG=1 argument in ndk-build commandline
+    add android:debuggable="true" to < application > tag in AndroidManifest.xml
+    add APP_OPTIM := debug to your Application.mk file - this will also disable optimizations and will compile with debug symbols
+
+
+http://blog.csdn.net/wutianyin222/article/details/8222838

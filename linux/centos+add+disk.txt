@@ -1,0 +1,8 @@
+parted-disk > 2T
+	http://www.cyberciti.biz/tips/fdisk-unable-to-create-partition-greater-2tb.html
+	http://mikent.wordpress.com/2012/07/01/how-to-create-partition-larger-than-2tb-on-rhel6a/
+
+Advanced-Format
+	http://wdc.custhelp.com/app/answers/detail/a_id/5655/~/how-to-install-a-wd-advanced-format-drive-on-a-non-windows-operating-system
+	http://www.seagate.com/tech-insights/advanced-format-4k-sector-hard-drives-master-ti/
+	http://rainbow.chard.org/2013/01/30/how-to-align-partitions-for-best-performance-using-parted/

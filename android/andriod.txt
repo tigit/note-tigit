@@ -1,0 +1,19 @@
+activity
+	http://blog.csdn.net/android_tutor/article/details/5772285
+	http://www.ibm.com/developerworks/cn/opensource/os-cn-android-actvt/
+
+ant
+	http://www.cnblogs.com/sw926/p/3238512.html
+
+clipboard
+	http://developer.android.com/guide/topics/text/copy-paste.html
+	http://jeff-pluto-1874.iteye.com/blog/869710
+
+eclipse+lint+error
+	http://stackoverflow.com/questions/12243762/how-to-solve-this-running-android-lint-issue
+	http://code2care.org/pages/solution-running-android-lint-has-encountered-a-problem-nullpointerexception-error/
+
+filesystem
+	http://developer.android.com/training/basics/data-storage/files.html#GetWritePermission
+	http://android.stackexchange.com/questions/46926/android-folder-hierarchy/46934#46934
+	http://android.stackexchange.com/questions/47924/where-android-apps-store-data

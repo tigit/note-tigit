@@ -1,0 +1,10 @@
+ref
+	https://www.centos.org/docs/5/html/5.2/Deployment_Guide/s2-bind-introduction-bind.html
+	https://www.centos.bz/2012/02/bind-cacheing-only-dns-deploy/
+
+forward+named.conf
+	options {
+    	forward only;
+    	forwarders { 202.96.134.133;202.96.128.68; };
+    	allow-query {any;};
+	};

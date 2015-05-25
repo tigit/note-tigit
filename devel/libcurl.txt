@@ -1,0 +1,2 @@
+name+resolve+blocking
+	http://daniel.haxx.se/blog/2011/04/25/libcurls-name-resolving/

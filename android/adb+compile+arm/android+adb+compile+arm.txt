@@ -1,0 +1,14 @@
+http://www.ibm.com/developerworks/cn/opensource/os-cn-android-build/
+
+http://nfer-zhuang.iteye.com/blog/1758157
+
+http://sunjilife.blog.51cto.com/3430901/1226597
+
+https://github.com/karfield/adb
+
+http://soupdawg.wordpress.com/2014/02/07/how-to-prepare-ubuntu-14-04-lts-trusty-tahr-to-compile-android-roms/
+
+http://forum.xda-developers.com/showthread.php?t=1924492
+https://github.com/trevd/android_device_generic_armv6
+
+

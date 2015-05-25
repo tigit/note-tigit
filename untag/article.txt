@@ -1,0 +1,39 @@
+politics
+	http://www.letscorp.net/archives/74700
+	http://www.letscorp.net/archives/77095
+	http://www.letscorp.net/archives/77894
+	http://www.letscorp.net/archives/78343
+	http://www.letscorp.net/archives/78575
+	http://www.letscorp.net/archives/78907
+	http://www.letscorp.net/archives/79470
+	http://www.letscorp.net/archives/79465
+	http://www.letscorp.net/archives/79586
+	http://www.letscorp.net/archives/79787
+	http://www.letscorp.net/archives/79960
+	http://www.letscorp.net/archives/80277
+	http://www.letscorp.net/archives/80652
+	http://www.letscorp.net/archives/81290
+	http://www.letscorp.net/archives/81425
+
+	http://www.letscorp.net/archives/81503
+	http://www.letscorp.net/archives/81560
+
+	http://www.letscorp.net/archives/81743
+	http://www.letscorp.net/archives/79696
+	http://www.letscorp.net/archives/88471
+
+economy
+	http://www.letscorp.net/archives/79584
+	http://www.letscorp.net/archives/83720
+	http://www.letscorp.net/archives/84038
+	http://www.letscorp.net/archives/84274
+	http://www.letscorp.net/archives/84377
+	http://www.letscorp.net/archives/84688
+	http://www.letscorp.net/archives/86644
+	http://www.letscorp.net/archives/86610
+
+history
+	http://www.letscorp.net/archives/83839
+
+IT
+	http://www.letscorp.net/archives/84372

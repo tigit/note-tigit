@@ -1,0 +1,3 @@
+renew ip
+	dhclient -r eth0
+	dhclient 

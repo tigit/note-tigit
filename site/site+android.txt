@@ -1,0 +1,10 @@
+android 
+	http://github.dudukr.com/VWiki/blog/
+	http://www.trinea.cn/
+
+linux
+	http://bootloader.wikidot.com/
+
+library
+	https://android-arsenal.com/tag/21
+

@@ -1,0 +1,4 @@
+http://stackoverflow.com/questions/7794659/how-to-change-the-hosts-file-on-android
+
+mount+read/write
+	mount -o rw,remount -t yaffs2 /dev/block/mtdblock3 /system

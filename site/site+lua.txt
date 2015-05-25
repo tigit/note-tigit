@@ -1,0 +1,4 @@
+lua
+	http://www.codedump.info/?cat=48
+	http://techsingular.net/?cat=14
+	http://pgl.yoyo.org/luai/i/package.loaders

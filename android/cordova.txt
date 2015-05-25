@@ -1,0 +1,47 @@
+change source.list
+	sudo sed -i "s/us.archive.ubuntu.com/mirrors.163.com/g" sources.list
+	
+vmware usb
+	services.msc->VMware USB Service
+
+fix i386 error
+	sudo apt-get install libc6:i386 libstdc++6:i386 libzip2 libzip2:i386
+
+install
+	https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-an-ubuntu-14-04-server
+	https://www.npmjs.org/package/cordova
+
+npm proxy
+	npm config set proxy=http://192.168.58.1:8580
+	
+create project
+	sudo npm install -g cordova
+	http://cordova.apache.org/docs/en/3.5.0/guide_platforms_amazonfireos_index.md.html#Amazon%20Fire%20OS%20Platform%20Guide
+	
+	
+js
+	http://www.oschina.net/news/48798/15-excellent-html5-jquery-plugins
+	
+nodejs
+	http://www.infoq.com/cn/news/2011/11/tyq-nodejs-static-file-server
+	https://github.com/JacksonTian/ping
+
+gallery
+	http://tympanus.net/codrops/2011/07/05/fullscreen-slideshow-with-html5-audio/
+	http://tympanus.net/codrops/2010/06/24/multimedia-gallery/
+	http://html5box.com/html5gallery/
+	http://html5box.com/html5gallery/demo_mediacenter.php
+	http://www.cnblogs.com/lhb25/archive/2012/07/31/responsive-slider-jquery-plugin-iview-slider.html
+	http://www.cnblogs.com/lhb25/archive/2011/05/31/2056103.html
+	http://www.cnblogs.com/lhb25/archive/2011/04/11/2005330.html
+	http://blog.karachicorner.com/2011/01/quick-easy-zooming-with-jquery-%E2%80%93-zoomy/
+	http://designgrapher.com/25-html5-and-css3-sliders-free-to-use/
+	https://github.com/iprodev/iView
+	http://wowslider.com/#
+	
+nokia x
+	http://developer.nokia.com/resources/library/nokia-x/getting-started/device-setup.html
+	
+	
+jquery mobile
+	http://www.wglong.com/main/artical!details?id=14

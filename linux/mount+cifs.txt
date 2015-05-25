@@ -1,0 +1,1 @@
+mount -t cifs -o uid=1000,gid=1000,username="lin",password="q1W@e3R$" //192.168.26.1/share /home/devel/share

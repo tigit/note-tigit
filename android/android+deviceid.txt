@@ -1,0 +1,3 @@
+http://blog.csdn.net/yuxiaohui78/article/details/8241144
+http://stackoverflow.com/questions/2785485/is-there-a-unique-android-device-id
+http://android-developers.blogspot.tw/2011/03/identifying-app-installations.html

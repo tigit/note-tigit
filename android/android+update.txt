@@ -1,0 +1,3 @@
+https://github.com/zzljob/android-auto-update-service
+https://github.com/qmdx/auto-update-service
+https://code.google.com/p/auto-update-apk-client/

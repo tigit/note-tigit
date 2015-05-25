@@ -1,0 +1,2 @@
+https://github.com/brunodecarvalho/curl-ios-build-scripts
+https://github.com/diegostamigni/iOScURL

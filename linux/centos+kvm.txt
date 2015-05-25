@@ -1,0 +1,5 @@
+clone
+	virt-clone -o centos-6 -n xxqy-1 -f /data2/vm/xxqy-1.img --nonsparse
+
+install
+	virt-install -n ubuntu-1 -r 2048 --os-type=linux --os-variant=ubuntuquantal --disk /data2/vm/ubuntu-1.img,device=disk,bus=virtio,size=120,sparse=false,format=raw -w bridge=br0,model=virtio --vnc --noautoconsole -c /data2/share/tool/os/ubuntu-14.04.1-server-amd64.iso

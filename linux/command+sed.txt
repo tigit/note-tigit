@@ -1,0 +1,5 @@
+sed -n -e 's#.*<path>.*/\([0-9]*\).xml</path><!-- \(.*\) -->.*#\1|\2#p' itemmanager.xml > item_list.txt
+
+sed -n -e 's#.*<path>.*/\([0-9]*\).xml<!-- \(.*\) --></path>.*#\1|\2#p' itemmanager.xml > item_list.txt
+
+grep "Java_org_cocos2dx_lib_Cocos2dxHelper.cpp : 74" * | gawk '{print substr($1,1,40)}' | xargs -t -L 1 rm -f

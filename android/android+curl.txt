@@ -1,0 +1,65 @@
+http://blog.csdn.net/choujs/article/details/5304978
+http://blog.csdn.net/liushilei/article/details/5488107
+http://www.opensource.apple.com/source/curl/curl-68/curl/Android.mklog
+http://qiankanglai.me/misc/2014/08/31/android-libcurl/
+
+
+http://www.thegeekstuff.com/2012/04/curl-examples/
+
+ndk+compile
+	https://kexiao8.com/blog/index.php/2014/05/12/75.html
+
+ndk+standalone
+	./make-standalone-toolchain.sh --ndk-dir=/home/devel/tool/ndk --toolchain=arm-linux-androideabi-clang3.4 --llvm-version=3.4 --system=linux-x86_64 --platform=android-19 --install-dir=/home/devel/root-ndk-19
+
+libmbedtls+compile
+
+#!/bin/bash
+export TOOLCHAIN='/home/devel/root-ndk-19'
+export PATH=$PATH:${TOOLCHAIN}/bin
+
+export CHOST="arm-linux-androideabi"
+export CC="${TOOLCHAIN}/arm-linux-androideabi/bin/gcc --sysroot=${TOOLCHAIN}/sysroot"
+export CXX="${TOOLCHAIN}/arm-linux-androideabi/bin/g++ --sysroot=${TOOLCHAIN}/sysroot"
+
+make
+
+
+libcurl+compile
+
+#!/bin/bash
+TOOLCHAIN='/home/devel/root-ndk-19'
+export PATH=$PATH:${TOOLCHAIN}/bin
+
+./configure \
+--prefix=${TOOLCHAIN}/sysroot/usr \
+--host=arm-linux-androideabi \
+--with-sysroot=${TOOLCHAIN}/sysroot \
+--enable-optimize \
+--enable-shared \
+--enable-static \
+--disable-rtsp \
+--disable-ftp \
+--disable-file \
+--disable-ldap \
+--disable-ldaps \
+--disable-rtsp \
+--disable-dict \
+--disable-telnet \
+--disable-tftp \
+--disable-pop3 \
+--disable-smb \
+--disable-imap \
+--disable-smtp \
+--disable-gopher \
+--disable-unix-sockets \
+--enable-threaded-resolver \
+--enable-http \
+--without-libssh2 \
+--without-librtmp \
+--without-libidn \
+--without-gnutls \
+--with-polarssl
+
+make -j 4
+make install

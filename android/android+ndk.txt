@@ -1,0 +1,2 @@
+reduce+so+size
+	http://blog.algolia.com/android-ndk-how-to-reduce-libs-size/

@@ -1,0 +1,10 @@
+cpu load
+	http://blog.scoutapp.com/articles/2009/07/31/understanding-load-averages
+
+disk io
+	http://blog.scoutapp.com/articles/2011/02/10/understanding-disk-i-o-when-should-you-be-worried
+	http://duartes.org/gustavo/blog/post/what-your-computer-does-while-you-wait/
+	http://www.orczhou.com/index.php/2010/03/iostat-detail/
+	
+
+	iostat -d -x -k 1 10

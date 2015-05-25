@@ -1,0 +1,2 @@
+serivce + looper
+	http://alvinalexander.com/java/jwarehouse/android/core/java/android/app/IntentService.java.shtml

@@ -1,0 +1,3 @@
+http://www.mysqlperformanceblog.com/2007/11/03/choosing-innodb_buffer_pool_size/
+
+http://imysql.com/page/2

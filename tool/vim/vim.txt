@@ -1,0 +1,9 @@
+vundle+youcompleteme
+	http://valloric.github.io/YouCompleteMe/
+	https://github.com/gmarik/Vundle.vim
+	http://llvm.org/apt/
+	
+vim-scripts
+	http://vim-scripts.org/vim/scripts.html
+	http://www.tuicool.com/articles/nquaAj
+	

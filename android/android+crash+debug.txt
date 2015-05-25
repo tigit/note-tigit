@@ -1,0 +1,37 @@
+ref
+	http://blog.csdn.net/xyz_lmn/article/details/7004710
+	http://www.applause.com
+	http://stackoverflow.com/questions/3378550/android-crash-reporting-library-pre-froyo
+	http://stackoverflow.com/questions/3643395/how-to-get-android-crash-logs
+	http://www.kpbird.com/2011/08/android-application-crash-logs.html
+	http://blog.csdn.net/hp0773/article/details/11827337
+
+	http://www.testin.cn/portal.action?op=Portal.index
+
+adb logcat
+
+debug
+	http://blog.thecobraden.com/2012/02/debugging-apps-with-native-code-part-1_09.html
+	http://sso.testin.cn/
+	http://www.kandroid.org/ndk/docs/NDK-GDB.html
+
+sigaction
+	http://github.dudukr.com/VWiki/2013/02/21/tombstone-on-android.html
+
+crash+dump
+	http://www.cnblogs.com/jhzhu/p/3801640.html
+	http://pjq.me/wiki/doku.php?id=android:android-jni:android-ndk-stacktrace-analyzer
+
+apk+reverse
+	https://code.google.com/p/android-apktool/w/list
+	https://bitbucket.org/iBotPeaches/apktool/downloads
+	https://code.google.com/p/onekey-decompile-apk/downloads/detail?name=onekey-decompile-apk-1.0.1.zip&can=2&q=
+
+upload+crash
+	https://github.com/4ntoine/Acra-breakpad
+	https://github.com/ACRA/acralyzer
+
+google-breakpad
+	https://code.google.com/p/google-breakpad/issues/detail?id=481
+	http://programming4fun.com/blog/android/dev/2014/02/13/breakpad-on-android/
+	http://dev.chromium.org/developers/crash-reports#TOC-Working-with-Minidumps

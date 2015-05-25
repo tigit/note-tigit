@@ -1,0 +1,3 @@
+ART+Dalvik
+	http://blog.csdn.net/luoshengyang/article/details/18006645
+	http://blog.newrelic.com/2014/07/07/android-art-vs-dalvik/

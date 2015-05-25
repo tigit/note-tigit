@@ -1,0 +1,5 @@
+install
+	http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/
+	http://www.rockmongo.com/wiki/introduction?lang=zh_cn
+	http://ubuntuhandbook.org/index.php/2014/04/install-nginx-with-php5-mysql-lemp-in-ubuntu-14-04-server/
+	https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-14-04-lts

@@ -1,0 +1,9 @@
+android+luasocket
+	http://blog.csdn.net/zzulp/article/details/24184521
+
+luvit
+	http://segmentfault.com/blog/sugr_dev/1190000000652257
+
+
+b64
+	http://lua-users.org/wiki/BaseSixtyFour

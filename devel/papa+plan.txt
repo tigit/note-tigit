@@ -1,0 +1,43 @@
+android+ant+ndk
+	http://developer.android.com/tools/projects/projects-cmdline.html#SettingUpLibraryProject
+	http://developer.android.com/tools/building/building-cmdline.html
+	http://stackoverflow.com/questions/7432449/android-ndk-build-with-ant-script
+	https://ant.apache.org/manual/Tasks/exec.html
+	http://stackoverflow.com/questions/2943828/how-to-compile-a-static-library-using-the-android-ndk
+
+C++ head file
+	http://en.cppreference.com/w/cpp/header
+
+lua
+	http://www.lua.org/manual/5.2/manual.html#4
+
+JNI
+	http://developer.android.com/training/articles/perf-jni.html
+	http://techbook.blog.163.com/blog/static/304885102012235613945/
+	http://docs.oracle.com/javase/6/docs/technotes/guides/jni/spec/functions.html#wp5833
+	http://www.wujiame.com/blog/2013/06/26/qianxi-jni/
+	http://docs.oracle.com/javase/1.5.0/docs/guide/jni/spec/functions.html#wp23871
+
+service
+	http://blog.vogella.com/2011/12/11/automatically-starting-services-in-android-after-booting/
+	http://stackoverflow.com/questions/4562734/android-starting-service-at-boot-time
+	http://www.vogella.com/code/index.html
+
+JSON
+	http://www.technotalkative.com/android-json-parsing/
+	http://www.technotalkative.com/lazy-productive-android-developer-3/
+	http://thetarah.com/2012/09/21/which-json-library-should-i-use-in-my-android-and-java-projects/
+
+lua+android
+	http://lua-users.org/lists/lua-l/2012-08/msg00092.html
+
+ant+debug
+	http://codeseekah.com/2012/02/09/command-line-android-development-basics/
+	http://codeseekah.com/2012/02/16/command-line-android-development-debugging/
+	http://developer.android.com/tools/debugging/index.html
+
+server+luvit
+	https://luvit.io/
+	https://github.com/luvit/luvit
+	https://github.com/luvit/luvit/wiki/Projects
+	

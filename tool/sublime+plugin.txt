@@ -1,0 +1,4 @@
+https://sublime.wbond.net/installation
+
+php
+	http://wasil.org/sublime-text-3-perfect-php-development-set-up

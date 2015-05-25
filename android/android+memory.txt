@@ -1,0 +1,2 @@
+http://developer.android.com/training/articles/memory.html
+http://android-developers.blogspot.com/2010/02/service-api-changes-starting-with.html

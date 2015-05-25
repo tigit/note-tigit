@@ -1,0 +1,2 @@
+https://bbs.archlinux.org/viewtopic.php?pid=1028574
+http://serverfault.com/questions/190978/firewall-questions-about-state-and-policy

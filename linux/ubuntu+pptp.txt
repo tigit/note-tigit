@@ -1,0 +1,17 @@
+pptp-linux
+	pptpsetup --create vt --server jp1.bookxo.com --username q1w2 --password  --encrypt
+
+pty "pptp tw1.bookxo.com --nolaunchpppd"
+lock
+noauth
+nobsdcomp
+nodeflate
+name q1w2
+remotename vt
+ipparam vt
+require-mppe-128
+
+file /etc/ppp/options.pptp
+
+	https://wiki.archlinux.org/index.php/PPTP_VPN_client_setup_with_pptpclient
+	https://help.ubuntu.com/community/VPNClient

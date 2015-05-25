@@ -1,0 +1,52 @@
+ipcs -s | grep "777" | gawk '{print $2}' | xargs -L 1 ipcs -s -i
+
+ipcs -s | grep "777" | gawk '{print $2}' | xargs -L 1 ipcs -s -i | grep -P "^[0-9]" > ipcs1.txt
+
+find -type f -name "*.plist" | xargs grep "xml" | grep -qv "res/ps" | grep -qv "res/gather"
+
+virt-install -n ubuntu-1 -r 2048 --os-type=linux --os-variant=ubuntuquantal --disk /data2/vm/ubuntu-1.img,device=disk,bus=virtio,size=120,sparse=false,format=raw -w bridge=br0,model=virtio --vnc --noautoconsole -c /data2/share/tool/os/ubuntu-14.04.1-server-amd64.iso
+
+
+mount -t cifs -o uid=1000,gid=1000,username="lin",password="q1W@e3R$" //192.168.26.1/share /home/devel/share
+
+mount -t cifs -o uid=1000,gid=1000 //192.168.11.50/tool /home/devel/share
+
+pptpsetup --create vt --server jp1.bookxo.com --username q1w2 --password tongyong4q1w2 --encrypt
+
+pon vt debug dump logfd 2 nodetach
+
+
+#!/bin/bash
+
+# This script is called with the following arguments:
+# Arg Name
+# $1 Interface name
+# $2 The tty
+# $3 The link speed
+# $4 Local IP number
+# $5 Peer IP number
+# $6 Optional ``ipparam'' value foo
+
+echo 0 > /proc/sys/net/ipv4/conf/$1/rp_filter
+echo 1 > /proc/sys/net/ipv4/ip_forward
+echo 1 > /proc/sys/net/ipv4/ip_dynaddr
+
+ip route flush table vt
+ip route add default via $5 dev $1 table vt
+
+# forward only IRC ports over VPN
+iptables -t mangle -A OUTPUT -p tcp -m multiport --dports 80,443 -j MARK --set-mark 0x1
+iptables -t nat    -A POSTROUTING -o $1 -j MASQUERADE
+
+ip rule  add fwmark 0x1 pri 100 lookup vt
+ip rule  add from $4 pri 200 table vt
+ip route flush cache
+
+
+repo init -u https://android.googlesource.com/platform/manifest -b android-4.4.4_r2.0.1
+
+./make-standalone-toolchain.sh --ndk-dir=/home/devel/tool/ndk --toolchain=arm-linux-androideabi-clang3.4 --llvm-version=3.4 --system=linux-x86_64 --platform=android-19 --install-dir=/home/devel/root-ndk-19 
+
+
+
+ls -lR | grep "^-" | wc -l

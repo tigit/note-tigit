@@ -1,0 +1,2 @@
+semaphore+proccess
+    http://unix.stackexchange.com/questions/75547/how-to-get-proccesses-currently-running-semaphores-by-proc

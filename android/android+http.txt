@@ -1,0 +1,18 @@
+https://github.com/square/picasso
+https://github.com/loopj/android-async-http
+
+http://stackoverflow.com/questions/16902716/comparison-of-android-networking-libraries-okhttp-retrofit-volley/
+http://stackoverflow.com/questions/25346813/google-volley-vs-android-async-http
+http://developer.android.com/training/volley/index.html
+
+http://square.github.io/okhttp/
+http://square.github.io/
+
+http upload
+	http://www.evanjbrunner.info/posts/json-requests-with-httpurlconnection-in-android/
+	https://coderwall.com/p/swgfvw/nginx-direct-file-upload-without-passing-them-through-backend
+	http://stackoverflow.com/questions/798844/better-file-uploading-approach-http-post-multipart-or-http-put
+	http://bitworking.org/news/PUT_SaferOrDangerous
+
+apache+http+client
+	http://code.google.com/p/httpclientandroidlib

@@ -1,0 +1,6 @@
+http://zh.wikipedia.org/wiki/Nmap
+http://blog.csdn.net/aspirationflow/article/details/7694274
+
+nmap -v -P0
+
+nmap -v -Pn -sN -p28337 1.234.86.185
