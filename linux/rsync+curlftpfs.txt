@@ -1,0 +1,2 @@
+http://www.debiantutorials.com/automated-backups-to-ftp-server-using-rsync-and-curlftpfs/
+http://www.linuxquestions.org/questions/linux-newbie-8/what-is-the-rsync-flag-to-ignore-permissions-800765/

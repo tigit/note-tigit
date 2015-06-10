@@ -1,0 +1,1 @@
+http://askubuntu.com/questions/299870/http-post-and-get-using-curl-in-linux
