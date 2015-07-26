@@ -1,0 +1,24 @@
+nmake /f Makefile.vc mode=static VC=12 GEN_PDB=no DEBUG=yes WITH_ZLIB=static WITH_SSL=static ENABLE_POLARSSL=yes ENABLE_WINSSL=no ENABLE_IPV6=no ENABLE_SSPI=no ENABLE_IDN=no
+
+
+winbuild/Makefile.vc
+
+!IFNDEF ENABLE_POLARSSL
+USE_POLARSSL = true
+!ELSEIF "$(ENABLE_POLARSSL)"=="yes"
+USE_POLARSSL = true
+!ELSEIF "$(ENABLE_POLARSSL)"=="no"
+USE_POLARSSL = false
+!ENDIF
+
+
+winbuild/MakefileBuild.vc
+!IF "$(WITH_SSL)"=="dll"
+SSL_LIBS     = mbedtls.lib
+USE_SSL      = true
+SSL          = dll
+!ELSEIF "$(WITH_SSL)"=="static"
+SSL_LIBS     = mbedtls.lib
+USE_SSL      = true
+SSL          = static
+!ENDIF

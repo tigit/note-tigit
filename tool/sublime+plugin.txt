@@ -2,3 +2,13 @@ https://sublime.wbond.net/installation
 
 php
 	http://wasil.org/sublime-text-3-perfect-php-development-set-up
+
+emmet
+emmet css
+phpcs
+phpfmt
+sublimecodeintel
+sublimelinter
+sublimelinter-jshit
+sublimelinter-json
+sublimelinter-php

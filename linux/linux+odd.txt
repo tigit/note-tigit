@@ -1,2 +1,5 @@
 1. tail -F tail: cannot watch parent directory of : No space left on device
     https://forums.gentoo.org/viewtopic-t-806326-start-0.html
+
+2. flush dns cache
+    http://www.cyberciti.biz/faq/rhel-debian-ubuntu-flush-clear-dns-cache/

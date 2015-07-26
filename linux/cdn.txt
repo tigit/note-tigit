@@ -1,0 +1,3 @@
+wget -SO /dev/null "http://1251362862.cdn.myqcloud.com/1251362862/data_v2/assets/mapAssets/scene/105/front/pic14_8.jpg?version=81627" -e http_proxy=113.6.237.66
+
+wget -SO /dev/null "http://1251362862.cdn.myqcloud.com/1251362862/data_v2/assets/mapAssets/scene/105/front/pic14_8.jpg?version=81627" -e http_proxy=113.6.237.66

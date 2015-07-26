@@ -1,0 +1,3 @@
+http://www.cnblogs.com/weisenz/archive/2012/03/30/2425452.html
+http://blog.csdn.net/windows_nt/article/details/12912081
+https://github.com/jollen/android-ota/blob/master/README.md
