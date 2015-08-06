@@ -40,4 +40,19 @@ server+luvit
 	https://luvit.io/
 	https://github.com/luvit/luvit
 	https://github.com/luvit/luvit/wiki/Projects
-	
+
+web console
+	http://ace.c9.io/
+	http://ajaxorg.github.io/ace-builds/kitchen-sink.html
+	https://github.com/joewalker/gcli
+	https://github.com/ajaxorg/cockpit
+	https://groups.google.com/forum/#!msg/ace-internals/ajhlNzanf18/CtTDfTHDG0MJ
+	https://github.com/leafo/lapis-console
+	https://en.wikipedia.org/wiki/Web-based_SSH
+
+amaze ui
+	http://amazeui.org/getting-started/html-css
+
+alice
+	http://aralejs.org/
+	http://aliceui.org/

@@ -12,6 +12,8 @@ ndk+compile
 ndk+standalone
 	./make-standalone-toolchain.sh --ndk-dir=/home/devel/tool/ndk --toolchain=arm-linux-androideabi-clang3.4 --llvm-version=3.4 --system=linux-x86_64 --platform=android-19 --install-dir=/home/devel/root-ndk-19
 
+    ./make-standalone-toolchain.sh --ndk-dir=/home/devel/tool/ndk-r10e --stl=libc++ --toolchain=arm-linux-androideabi-clang3.6 --llvm-version=3.6 --system=linux-x86_64 --platform=android-21 --install-dir=/home/devel/root-ndk-21
+
 libmbedtls+compile
 
 #!/bin/bash

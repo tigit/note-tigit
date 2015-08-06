@@ -45,3 +45,12 @@ nokia x
 	
 jquery mobile
 	http://www.wglong.com/main/artical!details?id=14
+
+
+http://www.codeproject.com/Articles/860150/Visual-Studio-and-Apache-Cordova
+
+react native
+	http://blog.cnbang.net/tech/2698/?from=groupmessage&isappinstalled=1
+	http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html
+	http://www.ruanyifeng.com/blog/2015/03/react.html
+	http://segmentfault.com/a/1190000002688632

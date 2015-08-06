@@ -1,0 +1,15 @@
+http://blog.csdn.net/windows_nt/article/details/8652191
+
+
+    _CrtSetBreakAlloc(83);
+    _CrtSetDbgFlag(_CrtSetDbgFlag(_CRTDBG_REPORT_FLAG) | _CRTDBG_LEAK_CHECK_DF);
+
+    char *A = new char[1024];
+    delete[] A;
+    char *B = new char[1024];
+    delete[] B;
+    char *C = new char[1024];
+    char *D = new char[1024];
+
+    delete[] D;
+    _CrtDumpMemoryLeaks();
