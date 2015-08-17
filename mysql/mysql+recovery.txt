@@ -1,0 +1,4 @@
+mysqlbinlog --database=yyb_s71 mysql-bin.000013 > yyb_s71.sql
+grep -B3 -w role yyb_s71.sql | egrep -v '^--$' > yyb_s71_role.sql
+sed -i -e '/^#/d' -e '/^SET ' -e '/^delete ' yyb_s71_role.sql
+mysql -udevel -phEj9SfQBgn -h127.0.0.1 -P3306 -e "SOURCE /data/xxqy/agent/xxqy_yyb_s71/script/yyb_s71_role.sql"

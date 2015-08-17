@@ -56,3 +56,14 @@ amaze ui
 alice
 	http://aralejs.org/
 	http://aliceui.org/
+
+react
+	http://www.infoq.com/cn/articles/react-art-of-simplity/
+	http://www.ruanyifeng.com/blog/2015/02/future-of-dom.html
+	http://www.infoq.com/cn/articles/subversion-front-end-ui-development-framework-react
+	http://www.csdn.net/article/2015-02-13/2823956-angular-vs-react
+	https://github.com/facebook/react/wiki/Complementary-Tools
+
+ui
+	http://topcoat.io/
+	http://coenraets.org/blog/2014/12/sample-mobile-application-with-react-and-cordova/
