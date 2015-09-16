@@ -5,6 +5,8 @@ disk io
 	http://blog.scoutapp.com/articles/2011/02/10/understanding-disk-i-o-when-should-you-be-worried
 	http://duartes.org/gustavo/blog/post/what-your-computer-does-while-you-wait/
 	http://www.orczhou.com/index.php/2010/03/iostat-detail/
+
+http://www.faqs.org/docs/linux_admin/index.html
 	
 
 	iostat -d -x -k 1 10

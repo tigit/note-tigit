@@ -54,3 +54,7 @@ react native
 	http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html
 	http://www.ruanyifeng.com/blog/2015/03/react.html
 	http://segmentfault.com/a/1190000002688632
+
+
+local file
+	http://makina-corpus.com/blog/metier/2014/the-right-location-for-your-cordova-app-files

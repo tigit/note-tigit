@@ -1,3 +1,5 @@
 http://svnbook.red-bean.com/en/1.7/svn.reposadmin.maint.html#svn.reposadmin.maint.migrate
 
 svnadmin dump /data/repos/ops > svn.ops.201504251550.dump
+
+svn switch --relocate svn://ttxx.youlin.521g.com/xxqy/center svn://183.61.136.176:3890/xxqy/center

@@ -1,0 +1,12 @@
+hi，CP的小伙伴们，“仙剑奇缘”IOS被拒，目前需要修改游戏名再提交，名字修改为“仙魂online”
+麻烦根据这个名字重新出下IOS和安卓包
+IOS被拒原因：
+22.2
+Apps that contain false, fraudulent or misleading representations or use names or icons similar to other Apps will be rejected（ 任何带 有虚假，欺诈和带有歧义的内容的应用会被拒。）
+22.2 Details
+Your app or its metadata contains misleading content. Specifically, your app name is leveraging the popularity of 仙剑奇侠传, which is not acceptable in the App Store.
+We’ve attached screenshot(s) for your reference.
+==》苹果认为仙剑奇缘这个名字与游戏内容不符，利用了仙剑奇侠传的影响力
+涉及调整内容：游戏名、logo
+
+

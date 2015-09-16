@@ -63,7 +63,38 @@ react
 	http://www.infoq.com/cn/articles/subversion-front-end-ui-development-framework-react
 	http://www.csdn.net/article/2015-02-13/2823956-angular-vs-react
 	https://github.com/facebook/react/wiki/Complementary-Tools
+	http://piotrf.pl/wrote/building-a-simple-slideshow-with-react-js
 
 ui
 	http://topcoat.io/
 	http://coenraets.org/blog/2014/12/sample-mobile-application-with-react-and-cordova/
+
+animation
+	https://css-tricks.com/myth-busting-css-animations-vs-javascript/
+	http://stackoverflow.com/questions/10984771/whats-faster-css3-transitions-or-jquery-animations
+	http://cssslider.com/demos.html#
+	http://designgrapher.com/25-html5-and-css3-sliders-free-to-use/
+
+webapp
+	http://www.cnblogs.com/yexiaochai/p/4219523.html
+	http://wex5.com/cn/wex5/?utm_source=Baidu
+
+imbed http
+	https://github.com/joyent/http-parser
+	https://github.com/h2o/picohttpparser
+
+
+tools
+	http://boke.io/ji-yu-gulphe-webpackde-qian-duan-gong-zuo-liu/
+	https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284
+	https://github.com/mcfog/glimmervoid
+	http://williamdurand.fr/2012/12/24/being-a-frontend-developer-for-a-weekend/
+	https://github.com/kjda/ReactJs-Phonegap
+	https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284
+
+
+crosswalk
+	http://www.tuicool.com/articles/RfyEjae
+
+
+
