@@ -8,3 +8,7 @@ forward+named.conf
     	forwarders { 202.96.134.133;202.96.128.68; };
     	allow-query {any;};
 	};
+
+
+
+http://369369.blog.51cto.com/319630/812889/

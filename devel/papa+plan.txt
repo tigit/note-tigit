@@ -64,6 +64,9 @@ react
 	http://www.csdn.net/article/2015-02-13/2823956-angular-vs-react
 	https://github.com/facebook/react/wiki/Complementary-Tools
 	http://piotrf.pl/wrote/building-a-simple-slideshow-with-react-js
+	http://joelburget.com/backbone-to-react/
+	https://developer.atlassian.com/blog/2015/02/rebuilding-hipchat-with-react/
+	http://engineering.flipboard.com/2015/02/mobile-web/#DrawingModes
 
 ui
 	http://topcoat.io/
@@ -97,4 +100,38 @@ crosswalk
 	http://www.tuicool.com/articles/RfyEjae
 
 
+website
+	https://www.khanacademy.org/
 
+css3
+	http://www.w3cplus.com/css/css-selector-performance
+	http://oli.jp/2011/ids/
+	https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS
+	http://nec.netease.com/standard/css-format.html
+	http://skyinlayer.com/#/home
+	http://segmentfault.com/a/1190000000490328
+	http://blog.csdn.net/yaoyuan_difang/article/details/38656461
+	http://cssslider.com/jquery-image-gallery-27.html
+	http://nicolasgallagher.com/
+
+
+terminal
+	http://www.htmlfivewow.com/demos/terminal/terminal.html
+
+
+camera
+	chrome --allow-file-access-from-files file:///D:/temp/css-test/index.html
+
+	http://www.webrtc.org/web-apis/chrome
+	http://www.html5rocks.com/en/tutorials/webrtc/basics/
+	http://peter.sh/experiments/chromium-command-line-switches/
+	https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia
+	http://segmentfault.com/a/1190000000354671
+	https://webcamtoy.com/app/
+
+flex
+	http://chriswrightdesign.com/experiments/using-flexbox-today/	
+
+
+javascript
+	http://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html

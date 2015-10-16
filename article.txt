@@ -1,0 +1,3 @@
+design
+    http://kb.cnblogs.com/page/512250/
+    http://hippoom.github.io/blogs/value-of-hypermedia-from-client-perspective.html
