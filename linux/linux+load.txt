@@ -10,3 +10,9 @@ http://www.faqs.org/docs/linux_admin/index.html
 	
 
 	iostat -d -x -k 1 10
+
+http://www.wowotech.net/
+
+http://blog.yufeng.info/archives/2422
+http://www.searchtb.com/2012/12/%E7%8E%A9%E8%BD%ACcpu-topology.html
+http://csrd.aliapp.com/

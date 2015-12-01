@@ -54,5 +54,5 @@ ls -lR | grep "^-" | wc -l
 
 add home dirtory
 
-usermod -d /home/www -m -p www
+usermod -d /home/www -m www
 vipw
