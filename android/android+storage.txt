@@ -1,0 +1,4 @@
+sdcard
+	http://blog.csdn.net/ouyang_peng/article/details/47173367
+	http://www.devnote.cn/article/238.html
+	http://android.stackexchange.com/questions/39542/confused-by-the-many-locations-of-the-virtual-sdcard
